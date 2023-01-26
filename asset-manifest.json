@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1f50e4e.css",
+    "main.js": "/static/js/main.c9009157.js",
+    "static/media/back.jpg": "/static/media/back.49b791239327e89106f2.jpg",
+    "static/media/kafka.png": "/static/media/kafka.317c1f2c49b4157ff755.png",
+    "index.html": "/index.html",
+    "main.a1f50e4e.css.map": "/static/css/main.a1f50e4e.css.map",
+    "main.c9009157.js.map": "/static/js/main.c9009157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f50e4e.css",
+    "static/js/main.c9009157.js"
+  ]
+}
